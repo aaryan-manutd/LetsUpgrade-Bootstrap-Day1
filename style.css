@@ -1,0 +1,28 @@
+body{
+  background-color: lightblue;
+  font-size: 1vh;
+}
+
+.row{
+  
+}
+
+.row-1{
+  background-color: lightcyan;
+  margin: 10px;
+}
+
+.row-2{
+  background-color: rgb(192, 231, 231);
+  margin: 10px;
+}
+
+.row-3{
+  background-color: rgb(179, 212, 212);
+  margin: 10px;
+}
+
+.block{
+  text-align: center;
+  height: 150px;
+}
